@@ -26,6 +26,7 @@ website:
                 contents:
                   - href: "LooperX/Mobius/02-Version2/scripts/scripts.qmd"
                   - href: "LooperX/Mobius/02-Version2/installation.qmd"
+      - href: "MacIcon/index.qmd"
   page-navigation: true
 format:
   html:
