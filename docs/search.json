@@ -381,7 +381,7 @@
     "href": "MacIcon/index.html",
     "title": "Möbius icon workaround for Mac",
     "section": "",
-    "text": "One minor niggle with Möbius 3 on the Mac is that the application icon for the standalone version appears corrupted when viewed in Launchpad and the Dock as shown below:\nThis seems to be down to a problem with the “Icon.icns” file embedded within the app. I have created a modified Icon.icns file which can be used to workaround the issue so that you will something closer to Jeff’s intended images:",
+    "text": "One minor niggle with Möbius 3 on the Mac is that the application icon for the standalone version appears corrupted when viewed in Launchpad and the Dock as shown below:\nThis seems to be down to a problem with the “Icon.icns” file embedded within the app. I have created a modified Icon.icns file which can be used to workaround the issue so that you will get something closer to Jeff’s intended images:",
     "crumbs": [
       "Möbius icon workaround for Mac"
     ]

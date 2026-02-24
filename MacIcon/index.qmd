@@ -9,7 +9,7 @@ standalone version appears corrupted when viewed in Launchpad and the Dock as sh
 ![Image of Mobius icon in Dock](images/dock_before.png){width="48%" fig-align="center"}
 
 This seems to be down to a problem with the "Icon.icns" file embedded within the app.
-I have created a modified Icon.icns file which can be used to workaround the issue so that you will something closer to Jeff's intended images:
+I have created a modified Icon.icns file which can be used to workaround the issue so that you will get something closer to Jeff's intended images:
 
 ![Image of Mobius icon workaround in Launchpad](images/launchpad_after.png){width="48%" fig-align="center"}
 ![Image of Mobius icon workaround in Dock](images/dock_after.png){width="48%" fig-align="center"}
